@@ -3,5 +3,5 @@
 
 - 🌱 I’m currently learning Javascript,Python,react js
 - 💬 Ask me about Wordpress,Bootstrap,PHP,MySQL
-- 📫 How to reach me:https://twitter.com/SubhashKodavala
+- 📫 How to reach me: twitter.com/SubhashKodavala
 
